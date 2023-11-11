@@ -1,13 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <br/>
-<br/>
 
 <p align="left"> 
-  Olá! Me chamo Samara Nakazuna e sou estudante de programação.
+  <strong>Olá! Me chamo Samara Nakazuna e sou estudante de programação.</strong>
 </p>
 <p align="left">
-  <strong>Contato:</strong> snakazuna@gmail.com
+  <strong>Contato:</strong> <em>snakazuna@gmail.com</em>
 </p>
 
 <br/>
