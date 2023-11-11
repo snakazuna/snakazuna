@@ -5,18 +5,18 @@
 </p>
 
 <p align="left">
-  🐻‍❄️ Tecnologias: HTML, CSS e JavaScript.
+  <strong>Tecnologias:</strong> HTML, CSS e JavaScript.
 </p>
 
 <p align="left">
-  🦩Contato: snakazuna@gmail.com
+  <strong>Contato:</strong> snakazuna@gmail.com
 </p>
 
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
-  <a href="#" alt="LinkedIn">
+  <a href="www.linkedin.com/in/samara-nakazuna-22ba9229a" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="#" alt="WhatsApp">
