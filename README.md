@@ -2,7 +2,7 @@
   <strong>Olá! Me chamo Samara Nakazuna e sou estudante de programação.</strong> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px">
 </p>
 <p align="left">
-  <strong>Contato:</strong> <em>snakazuna@gmail.com</em>
+  <strong>Contato:</strong> <em>contatosnakazuna@gmail.com</em>
 </p>
 <br />
 <div align="left">
