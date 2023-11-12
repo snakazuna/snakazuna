@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" min-width="300px" max-width="200px" width="200px" align="right">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" min-width="300px" max-width="200px" width="200px" align="center">
 
 <br/>
 
@@ -10,8 +10,6 @@
 </p>
 
 <br/>
-<br/>
-
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
