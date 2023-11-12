@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" min-width="300px" max-width="200px" width="200px" align="center">
+<div>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" min-width="300px" max-width="200px" width="200px" align="right">
 
 <br/>
 
@@ -8,6 +9,7 @@
 <p align="left">
   <strong>Contato:</strong> <em>snakazuna@gmail.com</em>
 </p>
+</div>
 
 <br/>
 
